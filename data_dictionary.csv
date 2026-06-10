@@ -1,0 +1,6 @@
+Column Name,Data Type
+CustomerID,int64
+Name,str
+Age,float64
+City,str
+Salary,int64
